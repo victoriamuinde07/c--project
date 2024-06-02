@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\dicegame\dicegame\bin\Debug\dicegame.exe.config
+C:\Users\pc\source\repos\dicegame\dicegame\bin\Debug\dicegame.exe
+C:\Users\pc\source\repos\dicegame\dicegame\bin\Debug\dicegame.pdb
+C:\Users\pc\source\repos\dicegame\dicegame\obj\Debug\dicegame.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\dicegame\dicegame\obj\Debug\dicegame.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\dicegame\dicegame\obj\Debug\dicegame.exe
+C:\Users\pc\source\repos\dicegame\dicegame\obj\Debug\dicegame.pdb
