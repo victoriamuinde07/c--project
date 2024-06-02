@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\commit 1\commit 1\bin\Debug\commit 1.exe.config
+C:\Users\pc\source\repos\commit 1\commit 1\bin\Debug\commit 1.exe
+C:\Users\pc\source\repos\commit 1\commit 1\bin\Debug\commit 1.pdb
+C:\Users\pc\source\repos\commit 1\commit 1\obj\Debug\commit 1.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\commit 1\commit 1\obj\Debug\commit 1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\commit 1\commit 1\obj\Debug\commit 1.exe
+C:\Users\pc\source\repos\commit 1\commit 1\obj\Debug\commit 1.pdb
